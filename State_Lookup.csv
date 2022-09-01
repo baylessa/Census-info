@@ -1,0 +1,67 @@
+Location,State Abbreviation,Location Type,Region#,Region,Division#,Division
+Alaska,AK,State,4,West,9,Pacific
+Alabama,AL,State,3,South,6,East South Central
+Arkansas,AR,State,3,South,7,West South Central
+Arizona,AZ,State,4,West,8,Mountain
+California,CA,State,4,West,9,Pacific
+Colorado,CO,State,4,West,8,Mountain
+District of Columbia,DC,State,3,South,5,South Atlantic
+Delaware,DE,State,1,Northeast,1,New England
+Connecticut,DT,State,1,Northeast,1,New England
+Georgia,FA,State,3,South,5,South Atlantic
+Florida,GL,State,3,South,5,South Atlantic
+Hawaii,HI,State,4,West,9,Pacific
+Iowa,IA,State,2,Midwest,4,West North Central
+Idaho,ID,State,4,West,8,Mountain
+Illinois,IL,State,2,Midwest,3,East North Central
+Indiana,IN,State,2,Midwest,3,East North Central
+Kansas,KS,State,2,Midwest,4,West North Central
+Kentucky,KY,State,3,South,6,East South Central
+Louisiana,LA,State,3,South,7,West South Central
+Massachusetts,MA,State,1,Northeast,1,New England
+Maryland,MD,State,3,South,5,South Atlantic
+Maine,ME,State,1,Northeast,1,New England
+Midwest,R: M,Region,2,Midwest,4,West North Central
+Michigan,MI,State,2,Midwest,3,East North Central
+Minnesota,MN,State,2,Midwest,4,West North Central
+Missouri,MO,State,2,Midwest,4,West North Central
+Mississippi,MS,State,3,South,6,East South Central
+Montana,MT,State,4,West,8,Mountain
+North Carolina,NC,State,3,South,5,South Atlantic
+North Dakota,ND,State,2,Midwest,4,West North Central
+Nebraska,NE,State,2,Midwest,4,West North Central
+New Hampshire,NH,State,1,Northeast,1,New England
+New Jersey,NJ,State,1,Northeast,2,Mid-Atlantic
+New Mexico,NM,State,4,West,8,Mountain
+Nevada,NV,State,4,West,8,Mountain
+New York,NY,State,1,Northeast,2,Mid-Atlantic
+Ohio,OH,State,2,Midwest,3,East North Central
+Oklahoma,OK,State,3,South,7,West South Central
+Oregon,OR,State,4,West,9,Pacific
+Pennsylvania,PA,State,1,Northeast,2,Mid-Atlantic
+Puerto Rico,PR,State,,,,
+Rhode Island,RI,State,1,Northeast,1,New England
+South Carolina,SC,State,3,South,5,South Atlantic
+South Dakota,SD,State,2,Midwest,4,West North Central
+Tennessee,TN,State,3,South,6,East South Central
+Texas,TX,State,3,South,7,West South Central
+United States,USA,All,9,All,0,United States
+Utah,UT,State,4,West,8,Mountain
+Virginia,VA,State,3,South,5,South Atlantic
+Vermont,VT,State,1,Northeast,1,New England
+Washington,WA,State,4,West,9,Pacific
+Wisconsin,WI,State,2,Midwest,3,East North Central
+West Virginia,WV,State,3,South,5,South Atlantic
+Wyoming,WY,State,4,West,8,Mountain
+New England,D: NE,Division,1,Northeast,1,New England
+Northeast,R: NE,Region,1,Northeast,1,New England
+Mid-Atlantic,D: MA,Division,1,Northeast,2,Mid-Atlantic
+East North Central,D: ENC,Division,2,Midwest,3,East North Central
+West North Central,D: WNC,Division,2,Midwest,4,West North Central
+South Atlantic,D: SA,Division,3,South,5,South Atlantic
+East South Central,D: ESC,Division,3,South,6,East South Central
+West South Central,D: WSC,Division,3,South,7,West South Central
+Mountain,D: M,Division,4,West,8,Mountain
+Pacific,D: P,Division,4,West,9,Pacific
+South,R: S,Region,3,South,,
+West,R: W,Region,4,West,,
