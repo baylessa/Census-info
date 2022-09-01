@@ -1,67 +1,67 @@
-Location,State Abbreviation,Location Type,Region#,Region,Division#,Division
-Alaska,AK,State,4,West,9,Pacific
-Alabama,AL,State,3,South,6,East South Central
-Arkansas,AR,State,3,South,7,West South Central
-Arizona,AZ,State,4,West,8,Mountain
-California,CA,State,4,West,9,Pacific
-Colorado,CO,State,4,West,8,Mountain
-District of Columbia,DC,State,3,South,5,South Atlantic
-Delaware,DE,State,1,Northeast,1,New England
-Connecticut,CT,State,1,Northeast,1,New England
-Georgia,GA,State,3,South,5,South Atlantic
-Florida,FL,State,3,South,5,South Atlantic
-Hawaii,HI,State,4,West,9,Pacific
-Iowa,IA,State,2,Midwest,4,West North Central
-Idaho,ID,State,4,West,8,Mountain
-Illinois,IL,State,2,Midwest,3,East North Central
-Indiana,IN,State,2,Midwest,3,East North Central
-Kansas,KS,State,2,Midwest,4,West North Central
-Kentucky,KY,State,3,South,6,East South Central
-Louisiana,LA,State,3,South,7,West South Central
-Massachusetts,MA,State,1,Northeast,1,New England
-Maryland,MD,State,3,South,5,South Atlantic
-Maine,ME,State,1,Northeast,1,New England
-Midwest,R: M,Region,2,Midwest,4,West North Central
-Michigan,MI,State,2,Midwest,3,East North Central
-Minnesota,MN,State,2,Midwest,4,West North Central
-Missouri,MO,State,2,Midwest,4,West North Central
-Mississippi,MS,State,3,South,6,East South Central
-Montana,MT,State,4,West,8,Mountain
-North Carolina,NC,State,3,South,5,South Atlantic
-North Dakota,ND,State,2,Midwest,4,West North Central
-Nebraska,NE,State,2,Midwest,4,West North Central
-New Hampshire,NH,State,1,Northeast,1,New England
-New Jersey,NJ,State,1,Northeast,2,Mid-Atlantic
-New Mexico,NM,State,4,West,8,Mountain
-Nevada,NV,State,4,West,8,Mountain
-New York,NY,State,1,Northeast,2,Mid-Atlantic
-Ohio,OH,State,2,Midwest,3,East North Central
-Oklahoma,OK,State,3,South,7,West South Central
-Oregon,OR,State,4,West,9,Pacific
-Pennsylvania,PA,State,1,Northeast,2,Mid-Atlantic
-Puerto Rico,PR,State,,,,
-Rhode Island,RI,State,1,Northeast,1,New England
-South Carolina,SC,State,3,South,5,South Atlantic
-South Dakota,SD,State,2,Midwest,4,West North Central
-Tennessee,TN,State,3,South,6,East South Central
-Texas,TX,State,3,South,7,West South Central
-United States,USA,All,9,All,0,United States
-Utah,UT,State,4,West,8,Mountain
-Virginia,VA,State,3,South,5,South Atlantic
-Vermont,VT,State,1,Northeast,1,New England
-Washington,WA,State,4,West,9,Pacific
-Wisconsin,WI,State,2,Midwest,3,East North Central
-West Virginia,WV,State,3,South,5,South Atlantic
-Wyoming,WY,State,4,West,8,Mountain
-New England,D: NE,Division,1,Northeast,1,New England
-Northeast,R: NE,Region,1,Northeast,1,New England
-Mid-Atlantic,D: MA,Division,1,Northeast,2,Mid-Atlantic
-East North Central,D: ENC,Division,2,Midwest,3,East North Central
-West North Central,D: WNC,Division,2,Midwest,4,West North Central
-South Atlantic,D: SA,Division,3,South,5,South Atlantic
-East South Central,D: ESC,Division,3,South,6,East South Central
-West South Central,D: WSC,Division,3,South,7,West South Central
-Mountain,D: M,Division,4,West,8,Mountain
-Pacific,D: P,Division,4,West,9,Pacific
-South,R: S,Region,3,South,,
-West,R: W,Region,4,West,,
+Location,State Abbreviation,Location Type,Region#,Region,Division#,Division,Order,Circuit #,Circuit
+Alabama,AL,State,3,South,6,East South Central,1,11,Eleventh Circuit
+Alaska,AK,State,4,West,9,Pacific,2,9,Ninth Circuit
+Arizona,AZ,State,4,West,8,Mountain,3,9,Ninth Circuit
+Arkansas,AR,State,3,South,7,West South Central,4,8,Eighth Circuit
+California,CA,State,4,West,9,Pacific,5,9,Ninth Circuit
+Colorado,CO,State,4,West,8,Mountain,6,10,Tenth Circuit
+Connecticut,CT,State,1,Northeast,1,New England,7,2,Second Circuit
+Delaware,DE,State,1,Northeast,1,New England,8,3,Third Circuit
+District of Columbia,DC,State,3,South,5,South Atlantic,51,D.C.,District of Columbia Circuit
+Florida,FL,State,3,South,5,South Atlantic,9,11,Eleventh Circuit
+Georgia,GA,State,3,South,5,South Atlantic,10,11,Eleventh Circuit
+Hawaii,HI,State,4,West,9,Pacific,11,9,Ninth Circuit
+Idaho,ID,State,4,West,8,Mountain,12,9,Ninth Circuit
+Illinois,IL,State,2,Midwest,3,East North Central,13,7,Seventh Circuit
+Indiana,IN,State,2,Midwest,3,East North Central,14,7,Seventh Circuit
+Iowa,IA,State,2,Midwest,4,West North Central,15,8,Eighth Circuit
+Kansas,KS,State,2,Midwest,4,West North Central,16,10,Tenth Circuit
+Kentucky,KY,State,3,South,6,East South Central,17,6,Sixth Circuit
+Louisiana,LA,State,3,South,7,West South Central,18,5,Fifth Circuit
+Maine,ME,State,1,Northeast,1,New England,19,1,First Circuit
+Maryland,MD,State,3,South,5,South Atlantic,20,4,Fourth Circuit
+Massachusetts,MA,State,1,Northeast,1,New England,21,1,First Circuit
+Michigan,MI,State,2,Midwest,3,East North Central,22,6,Sixth Circuit
+Minnesota,MN,State,2,Midwest,4,West North Central,23,8,Eighth Circuit
+Mississippi,MS,State,3,South,6,East South Central,24,5,Fifth Circuit
+Missouri,MO,State,2,Midwest,4,West North Central,25,8,Eighth Circuit
+Montana,MT,State,4,West,8,Mountain,26,9,Ninth Circuit
+Nebraska,NE,State,2,Midwest,4,West North Central,27,8,Eighth Circuit
+Nevada,NV,State,4,West,8,Mountain,28,9,Ninth Circuit
+New Hampshire,NH,State,1,Northeast,1,New England,29,1,First Circuit
+New Jersey,NJ,State,1,Northeast,2,Mid-Atlantic,30,3,Third Circuit
+New Mexico,NM,State,4,West,8,Mountain,31,10,Tenth Circuit
+New York,NY,State,1,Northeast,2,Mid-Atlantic,32,2,Second Circuit
+North Carolina,NC,State,3,South,5,South Atlantic,33,4,Fourth Circuit
+North Dakota,ND,State,2,Midwest,4,West North Central,34,8,Eighth Circuit
+Ohio,OH,State,2,Midwest,3,East North Central,35,6,Sixth Circuit
+Oklahoma,OK,State,3,South,7,West South Central,36,10,Tenth Circuit
+Oregon,OR,State,4,West,9,Pacific,37,9,Ninth Circuit
+Pennsylvania,PA,State,1,Northeast,2,Mid-Atlantic,38,3,Third Circuit
+Puerto Rico,PR,State,,,,,52,D.C.,District of Columbia Circuit
+Rhode Island,RI,State,1,Northeast,1,New England,39,1,First Circuit
+South Carolina,SC,State,3,South,5,South Atlantic,40,4,Fourth Circuit
+South Dakota,SD,State,2,Midwest,4,West North Central,41,8,Eighth Circuit
+Tennessee,TN,State,3,South,6,East South Central,42,6,Sixth Circuit
+Texas,TX,State,3,South,7,West South Central,43,5,Fifth Circuit
+Utah,UT,State,4,West,8,Mountain,44,10,Tenth Circuit
+Vermont,VT,State,1,Northeast,1,New England,45,2,Second Circuit
+Virginia,VA,State,3,South,5,South Atlantic,46,4,Fourth Circuit
+Washington,WA,State,4,West,9,Pacific,47,9,Ninth Circuit
+West Virginia,WV,State,3,South,5,South Atlantic,48,4,Fourth Circuit
+Wisconsin,WI,State,2,Midwest,3,East North Central,49,7,Seventh Circuit
+Wyoming,WY,State,4,West,8,Mountain,50,10,Tenth Circuit
+Midwest,R: M,Region,2,Midwest,0,United States,92,,
+Northeast,R: NE,Region,1,Northeast,1,New England,91,,
+South,R: S,Region,3,South,0,United States,93,,
+West,R: W,Region,4,West,0,United States,94,,
+East North Central,D: ENC,Division,2,Midwest,3,East North Central,83,,
+East South Central,D: ESC,Division,3,South,6,East South Central,86,,
+Mid-Atlantic,D: MA,Division,1,Northeast,2,Mid-Atlantic,82,,
+Mountain,D: M,Division,4,West,8,Mountain,88,,
+New England,D: NE,Division,1,Northeast,1,New England,81,,
+Pacific,D: P,Division,4,West,9,Pacific,89,,
+South Atlantic,D: SA,Division,3,South,5,South Atlantic,85,,
+West North Central,D: WNC,Division,2,Midwest,4,West North Central,84,,
+West South Central,D: WSC,Division,3,South,7,West South Central,87,,
+United States,USA,All,9,All,0,United States,99,,
